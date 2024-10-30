@@ -5,6 +5,7 @@ ECE Master's student at the University of Washington and Computer Vision Enginee
 
 
 - 📫 How to reach me: wennie99@uw.edu wzhao8477@gmail.com
+- website: https://bobbed1999.github.io/
 - 👯 I’m looking to collaborate on ... THINKING..
 <!--
 **Bobbed1999/Bobbed1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
