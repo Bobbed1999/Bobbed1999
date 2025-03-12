@@ -1,4 +1,3 @@
-### Hi there 👋
 ### Hi this is bobbed1999 
 
 ECE Master's student at the University of Washington and Computer Vision Engineer at Visionify.ai, with a deep focus on machine learning, computer science, and autonomous driving technologies. I am passionate about leveraging advanced algorithms and models to solve real-world problems. I also have completed 20 different course certifications in areas such as Machine Learning, Deep Learning, Python DSA, and Autonomous Driving Systems. These certifications have equipped me with advanced knowledge and practical skills to enhance my expertise in computer vision and related fields.
@@ -6,7 +5,7 @@ ECE Master's student at the University of Washington and Computer Vision Enginee
 
 - 📫 How to reach me: wennie99@uw.edu wzhao8477@gmail.com
 - website: https://bobbed1999.github.io/
-- 👯 I’m looking to collaborate on ... THINKING..
+- 🙌💬 I want to collaborate on explainable AI, multimodal efficient perception, and safe exploration in unstructured environments. My overarching goal is to develop safe, robust, and human-centered robotic systems capable of natural interaction with the real world.
 <!--
 **Bobbed1999/Bobbed1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
