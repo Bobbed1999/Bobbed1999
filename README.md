@@ -4,12 +4,7 @@ ECE Master's student at the University of Washington and Computer Vision Enginee
 
 
 - 📫 How to reach me: wennie99@uw.edu wzhao8477@gmail.com
-- 30 minutes short talk:
-  
-<!-- Google Calendar Appointment Scheduling begin -->
-<iframe src="https://calendar.google.com/calendar/appointments/schedules/AcZssZ0x9ohDKY1Ya-1SIGg7_va_nPVxB5QXBFff65w0yEvBPm7_lRNCJRw9zZEcLPsD8-W0Oak7qgFX?gv=true" style="border: 0" width="100%" height="600" frameborder="0"></iframe>
-<!-- end Google Calendar Appointment Scheduling -->
-
+- 30 minutes short talk: [Book an appointment](https://calendar.app.google/j3STUfhKcGq9yFGP7)
 - website: https://bobbed1999.github.io/
 - 🙌💬 I want to collaborate on explainable AI, multimodal efficient perception, and safe exploration in unstructured environments. My overarching goal is to develop safe, robust, and human-centered robotic systems capable of natural interaction with the real world.
 <!--
