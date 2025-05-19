@@ -6,9 +6,10 @@ ECE Master's student at the University of Washington and Lead Robotics & Compute
 - 📫 How to reach me: wennie99@uw.edu wzhao8477@gmail.com
 - 💬 30 minutes short talk: [Book an appointment](https://calendar.app.google/j3STUfhKcGq9yFGP7)
 - 🌐 Website: https://bobbed1999.github.io/
-- <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+- <a href="https://www.linkedin.com/in/wenzheng-zhao" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20" alt="LinkedIn"/>
 </a>
+
 [Linkedin](https://www.linkedin.com/in/wenzheng-zhao/)
 - 🙌💬 I want to collaborate on explainable AI, multimodal efficient perception, and safe exploration in unstructured environments. My overarching goal is to develop safe, robust, and human-centered robotic systems capable of natural interaction with the real world.
 <!--
