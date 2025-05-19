@@ -1,4 +1,4 @@
-✨### Hi this is Zachary W. Zhao 
+### ✨ Hi this is Zachary W. Zhao 
 
 ECE Master's student at the University of Washington and Lead Robotics & Computer Vision Engineer at AUTEV LLC, with a deep focus on machine learning, computer science, and autonomous driving technologies. I am passionate about leveraging advanced algorithms and models to solve real-world problems. I also have completed 20+ different course certifications in areas such as Machine Learning, Deep Learning, Python DSA, and Autonomous Driving Systems. These certifications have equipped me with advanced knowledge and practical skills to enhance my expertise in computer vision and related fields.
 
