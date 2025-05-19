@@ -4,8 +4,8 @@ ECE Master's student at the University of Washington and Lead Robotics & Compute
 
 
 - 📫 How to reach me: wennie99@uw.edu wzhao8477@gmail.com
-- 30 minutes short talk: [Book an appointment](https://calendar.app.google/j3STUfhKcGq9yFGP7)
-- website: https://bobbed1999.github.io/
+- 💬 30 minutes short talk: [Book an appointment](https://calendar.app.google/j3STUfhKcGq9yFGP7)
+- 🌐 Website: https://bobbed1999.github.io/
 - 🙌💬 I want to collaborate on explainable AI, multimodal efficient perception, and safe exploration in unstructured environments. My overarching goal is to develop safe, robust, and human-centered robotic systems capable of natural interaction with the real world.
 <!--
 **Bobbed1999/Bobbed1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
