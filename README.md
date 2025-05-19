@@ -6,7 +6,7 @@ ECE Master's student at the University of Washington and Lead Robotics & Compute
 - 📫 How to reach me: wennie99@uw.edu wzhao8477@gmail.com
 - 💬 30 minutes short talk: [Book an appointment](https://calendar.app.google/j3STUfhKcGq9yFGP7)
 - 🌐 Website: https://bobbed1999.github.io/
-- - <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20" alt="LinkedIn" style="vertical-align:middle;"/> 
+- <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20" alt="LinkedIn" style="vertical-align:middle;"/> 
   <a href="https://www.linkedin.com/in/wenzheng-zhao" target="_blank">LinkedIn</a>
 
 - <a href="https://www.linkedin.com/in/wenzheng-zhao" target="_blank">
