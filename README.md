@@ -9,6 +9,9 @@ ECE Master's student at the University of Washington and Lead Robotics & Compute
 - <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="15" alt="LinkedIn" style="vertical-align:middle;"/> 
   <a href="https://www.linkedin.com/in/wenzheng-zhao" target="_blank">LinkedIn</a>
 - 🙌💬 I want to collaborate on explainable AI, multimodal efficient perception, and safe exploration in unstructured environments. My overarching goal is to develop safe, robust, and human-centered robotic systems capable of natural interaction with the real world.
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+  
 <!--
 **Bobbed1999/Bobbed1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
